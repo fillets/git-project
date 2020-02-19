@@ -5,5 +5,11 @@ public class hello {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
+
+
+    }
+
+    static void test(){
+        System.out.println("world");
     }
 }
