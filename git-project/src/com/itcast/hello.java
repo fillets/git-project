@@ -12,4 +12,8 @@ public class hello {
     static void test(){
         System.out.println("world");
     }
+
+    public void test2(){
+        System.out.println("test");
+    }
 }
